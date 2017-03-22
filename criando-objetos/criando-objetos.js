@@ -29,4 +29,4 @@ var celta = {
 		console.log('Ligando o carro');
 	}
 };
-console.log('celta', celta)
+console.log('celta', celta);
